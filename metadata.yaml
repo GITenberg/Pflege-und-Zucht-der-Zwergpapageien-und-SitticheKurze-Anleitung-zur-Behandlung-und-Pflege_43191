@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42059
     wikipedia: https://de.wikipedia.org/wiki/Jean_Bungartz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43191#Pflege-und-Zucht-der-Zwergpapageien-und-SitticheKurze-Anleitung-zur-Behandlung-und-Pflege
 gutenberg_issued: '2013-07-10'
 gutenberg_type: Text
 identifiers:
