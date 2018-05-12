@@ -1,0 +1,30 @@
+_repo: Pflege-und-Zucht-der-Zwergpapageien-und-SitticheKurze-Anleitung-zur-Behandlung-und-Pflege_43191
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43191-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bungartz, Jean
+    alias: Bungartz, J. (Jean)
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '42059'
+    url: http://www.gutenberg.org/2009/agents/42059
+    wikipedia: https://de.wikipedia.org/wiki/Jean_Bungartz
+description: ''
+gutenberg_issued: '2013-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43191'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Parrots'
+title: 'Pflege und Zucht der Zwergpapageien und Sittiche
+
+  Kurze Anleitung zur Behandlung und Pflege'
+url: http://www.gutenberg.org/ebooks/43191
